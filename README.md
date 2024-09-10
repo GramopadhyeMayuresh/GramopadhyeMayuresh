@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 👋 Hi, I'm Mayuresh Gramopadhye!
+### I'm Mayuresh Gramopadhye!
 
 I'm a **FullStack Engineer** @ Tech9 with a passion for crafting efficient, scalable, and secure applications. My expertise lies in **PHP**, **Laravel**, **ReactJS**, **NextJS**, **ElectronJS**, **SQL**, **AWS**, and **Python**. I'm currently expanding my knowledge and honing my skills in **NextJS**.
 
